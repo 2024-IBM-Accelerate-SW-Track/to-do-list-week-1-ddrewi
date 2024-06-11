@@ -20,7 +20,7 @@ export default class About extends Component {
                   Broadly interested in "making things go fast".<br />
                   Loves to take walks and look at trees.<br />
                   Spends too much time playing Sudoku, wondering what to eat, and dreading existential crises.<br />
-                  Excited to meet new people => Feel free to reach out!
+                  Excited to meet new people. Feel free to reach out!
                 </p>
               </div>
             </div>
